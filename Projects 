@@ -1,0 +1,6 @@
+#It gives the add,subtract,div and multiplication 
+a=("Take the first number")
+b=("Take the second number")
+c=(a+b,a-b,a*b,a/b)
+print(a,b)
+print(c)
